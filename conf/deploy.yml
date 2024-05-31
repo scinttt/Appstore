@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://34.85.215.26:9200"
+  username: "root"
+  password: "15723375"
+
+gcs:
+  bucket: "appstore-bucket-david"
+
+token:
+  secret: "secret"
